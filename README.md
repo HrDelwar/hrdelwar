@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Habibur Rahman Delwar A MERN Stack Developer & A quick learler.
-[<img src='https://i.ibb.co/725ZCgv/fancy-cover.jpg' alt='github' width='100%'>]
+<img src='https://i.ibb.co/725ZCgv/fancy-cover.jpg' alt='github' width='100%'>
 
 I am always ready to work hard and it helps me learn faster. And I have good knowledge in MERN Stack with experience in building Web Applications used React.js for client-side, Node.js/Express for server-side, and MongoDB for the database.
 
