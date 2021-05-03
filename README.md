@@ -10,7 +10,7 @@ I am always ready to work hard and it helps me learn faster. And I have good kno
 <strong>Experienced:</strong> React, React router, Javascript, ES6, Bootstrap4&5, MaterialUI, HTML5, CSS3, jQuery.
 <br><strong>Comfortable:</strong> React, JavaScript, ES6, Node.js, Express.js, MongoDB, Firebase
 <br><strong>Familiar:</strong> TypeScript, React-Native, Next.js, Redux, Vue.js, React-bootsrap, Tailwind-CSS, PHP, WordPress, SQL, MySQL.
-<strong>Tools:</strong> Git, GitHub, Npm, Yarn, VS Code, Webstrom, Firefox dev tool, Chrome  dev tool, Heroku, Netlify, Figma, Adobe XD, Postman
+<br><strong>Tools:</strong> Git, GitHub, Npm, Yarn, VS Code, Webstrom, Firefox dev tool, Chrome  dev tool, Heroku, Netlify, Figma, Adobe XD, Postman
 
 ## Contact
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' title="Github" height='40'>](https://github.com/HrDelwar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' title="linkedin" alt='linkedin' height='40'>](https://www.linkedin.com/in/HrDelwar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' title="facebook" height='40'>](https://www.facebook.com/HrDelwar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' title="Portfolio website" alt='website' height='40'>](https://hrdelwar.netlify.app)  
