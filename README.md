@@ -13,6 +13,6 @@ TypeScript, React-Native, Next.js, Redux, Vue.js, React-bootsrap, Tailwind-CSS, 
 
 
 ## Contact
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HrDelwar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/HrDelwar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/HrDelwar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://hrdelwar.netlify.app)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' title="Github" height='40'>](https://github.com/HrDelwar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' title="linkedin" alt='linkedin' height='40'>](https://www.linkedin.com/in/HrDelwar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' title="facebook" height='40'>](https://www.facebook.com/HrDelwar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' title="Portfolio website" alt='website' height='40'>](https://hrdelwar.netlify.app)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HrDelwar&show_icons=true)  
