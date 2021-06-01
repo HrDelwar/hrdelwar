@@ -1,5 +1,5 @@
 ## Hi there 👋, 
-## I'm Habibur Rahman Delwar A MERN Stack Developer & A quick learler. 
+## I'm Habibur Rahman Delwar A MERN Stack Developer & A quick learner. 
 ## [See Resume](https://drive.google.com/file/d/1LkBzrqWz6c9x4NNTXzgn6p7OwONWzpoK/view)  || [Download Resume](https://docs.google.com/document/d/18H9uIXujPX1tCdOrnF1brICsHU_C7Oqk/export?format=pdf)
 
 <img src='https://i.ibb.co/725ZCgv/fancy-cover.jpg' alt='github' width='100%'>
